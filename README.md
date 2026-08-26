@@ -28,33 +28,33 @@ AI Influencer Academy is a free, community‑driven curriculum that teaches crea
 
 | Tool | Description | Link |
 |------|-------------|------|
-| **OpenArt** | AI creative platform with Character Builder for consistent, photorealistic characters. Create a character from text or a single reference image, then reuse it across generations. | [openart.ai](https://openart.ai)[reference:0] |
-| **ComfyUI** | Open‑source node‑based interface for advanced image generation workflows. Supports SDXL, LoRAs, ControlNet, IP‑Adapter, and more. | [github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)[reference:1] |
-| **Civitai** | Platform for sharing and discovering AI image models, including LoRAs for character training. | [civitai.com](https://civitai.com)[reference:2] |
+| **OpenArt** | AI creative platform with Character Builder for consistent, photorealistic characters. Create a character from text or a single reference image, then reuse it across generations. | [openart.ai](https://openart.ai) |
+| **ComfyUI** | Open‑source node‑based interface for advanced image generation workflows. Supports SDXL, LoRAs, ControlNet, IP‑Adapter, and more. | [github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) |
+| **Civitai** | Platform for sharing and discovering AI image models, including LoRAs for character training. | [civitai.com](https://civitai.com) |
 
 ### Video Generation
 
 | Tool | Description | Link |
 |------|-------------|------|
-| **Kling 3.0** | Next‑gen AI video model with Character Identity 3.0 for subject consistency, native audio, and up to 15‑second clips. | [kling.ai](https://kling.ai)[reference:3] |
+| **Kling 3.0** | Next‑gen AI video model with Character Identity 3.0 for subject consistency, native audio, and up to 15‑second clips. | [kling.ai](https://kling.ai) |
 
 ### Voice & Audio
 
 | Tool | Description | Link |
 |------|-------------|------|
-| **ElevenLabs** | Industry‑standard voice cloning. Instant Voice Cloning with 1–2 minutes of audio, Professional Voice Cloning with up to 3 hours. | [elevenlabs.io](https://elevenlabs.io)[reference:4] |
+| **ElevenLabs** | Industry‑standard voice cloning. Instant Voice Cloning with 1–2 minutes of audio, Professional Voice Cloning with up to 3 hours. | [elevenlabs.io](https://elevenlabs.io) |
 
 ### Monetization Platform
 
 | Tool | Description | Link |
 |------|-------------|------|
-| **Fanvue** | AI‑powered creator monetization platform with 17M+ monthly active users and 250K+ creators. Built‑in AI tools for analytics, messaging, and content generation. | [fanvue.com](https://fanvue.com)[reference:5][reference:6] |
+| **Fanvue** | AI‑powered creator monetization platform with 17M+ monthly active users and 250K+ creators. Built‑in AI tools for analytics, messaging, and content generation. | [fanvue.com](https://fanvue.com) |
 
 ### Language Model (for "Smart Brain" automation)
 
 | Tool | Description | Link |
 |------|-------------|------|
-| **DeepSeek V4 Flash** | 284B total / 13B active parameters, 1M context window. Open‑weight under MIT License — free for commercial use. | [api-docs.deepseek.com](https://api-docs.deepseek.com)[reference:7][reference:8] |
+| **DeepSeek V4 Flash** | 284B total / 13B active parameters, 1M context window. Open‑weight under MIT License — free for commercial use. | [api-docs.deepseek.com](https://api-docs.deepseek.com) |
 
 ---
 
@@ -64,19 +64,19 @@ AI Influencer Academy is a free, community‑driven curriculum that teaches crea
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **AI‑Influencer‑Generator** | Create and customize your AI influencer — open‑source. | [github.com/SamurAIGPT/AI-Influencer-Generator](https://github.com/SamurAIGPT/AI-Influencer-Generator)[reference:9] |
-| **MuAPI** | Unified API for image, video, and audio generation across hundreds of AI models. | [github.com/SamurAIGPT/MuAPI](https://github.com/SamurAIGPT/MuAPI)[reference:10] |
-| **Open‑Generative‑AI** | Free open‑source studio for 200+ AI image & video models. | [github.com/SamurAIGPT/Open-Generative-AI](https://github.com/SamurAIGPT/Open-Generative-AI)[reference:11] |
-| **Free‑AI‑Social‑Media‑Scheduler** | Schedule AI influencer content across all social platforms automatically. | [github.com/SamurAIGPT/Free-AI-Social-Media-Scheduler](https://github.com/SamurAIGPT/Free-AI-Social-Media-Scheduler)[reference:12] |
+| **AI‑Influencer‑Generator** | Create and customize your AI influencer — open‑source. | [github.com/SamurAIGPT/AI-Influencer-Generator](https://github.com/SamurAIGPT/AI-Influencer-Generator) |
+| **MuAPI** | Unified API for image, video, and audio generation across hundreds of AI models. | [github.com/SamurAIGPT/MuAPI](https://github.com/SamurAIGPT/MuAPI) |
+| **Open‑Generative‑AI** | Free open‑source studio for 200+ AI image & video models. | [github.com/SamurAIGPT/Open-Generative-AI](https://github.com/SamurAIGPT/Open-Generative-AI) |
+| **Free‑AI‑Social‑Media‑Scheduler** | Schedule AI influencer content across all social platforms automatically. | [github.com/SamurAIGPT/Free-AI-Social-Media-Scheduler](https://github.com/SamurAIGPT/Free-AI-Social-Media-Scheduler) |
 
 ### Communities & Courses
 
 | Community | Description | Link |
 |-----------|-------------|------|
-| **AI Creator Academy** | Learn to create, grow & monetize AI influencers — from the team behind Aitana López, Spain's first AI influencer. | [skool.com/create-your-ai-influencer-1635](https://www.skool.com/create-your-ai-influencer-1635)[reference:13] |
-| **Six Figure AI Society** | Exclusive learning community for building and automating AI influencer brands. | [skool.com/ai-influencer-society-8267](https://www.skool.com/ai-influencer-society-8267)[reference:14] |
-| **Digital Influencer Lab** | Step‑by‑step tutorials using Flux, ComfyUI, and plug‑and‑play templates via MimicPC. | [skool.com/digital-influencer-lab](https://www.skool.com/digital-influencer-lab)[reference:15] |
-| **Silent Snow AI Influencers** | SFW course covering AI influencer workflows, tools, and strategies. | [skool.com/silent-snow-ai-influencers-6472](https://www.skool.com/silent-snow-ai-influencers-6472)[reference:16] |
+| **AI Creator Academy** | Learn to create, grow & monetize AI influencers — from the team behind Aitana López, Spain's first AI influencer. | [skool.com/create-your-ai-influencer-1635](https://www.skool.com/create-your-ai-influencer-1635) |
+| **Six Figure AI Society** | Exclusive learning community for building and automating AI influencer brands. | [skool.com/ai-influencer-society-8267](https://www.skool.com/ai-influencer-society-8267) |
+| **Digital Influencer Lab** | Step‑by‑step tutorials using Flux, ComfyUI, and plug‑and‑play templates via MimicPC. | [skool.com/digital-influencer-lab](https://www.skool.com/digital-influencer-lab) |
+| **Silent Snow AI Influencers** | SFW course covering AI influencer workflows, tools, and strategies. | [skool.com/silent-snow-ai-influencers-6472](https://www.skool.com/silent-snow-ai-influencers-6472) |
 
 ---
 
@@ -85,13 +85,13 @@ AI Influencer Academy is a free, community‑driven curriculum that teaches crea
 | Module | Topic | Tools |
 |--------|-------|-------|
 | 1 | Character Bible | ChatGPT, Notion |
-| 2 | Visual Identity | OpenArt Character Builder[reference:17] |
+| 2 | Visual Identity | OpenArt Character Builder |
 | 3 | Lifestyle Image Factory | OpenArt Bulk Create |
-| 4 | Video Generation | Kling 3.0[reference:18] |
-| 5 | Voice Cloning | ElevenLabs[reference:19] |
+| 4 | Video Generation | Kling 3.0 |
+| 5 | Voice Cloning | ElevenLabs |
 | 6 | Content Strategy & Scheduling | Buffer, Later |
-| 7 | Monetization | Fanvue[reference:20] |
-| 8 | Smart Brain (Automation) | DeepSeek V4 Flash[reference:21] |
+| 7 | Monetization | Fanvue |
+| 8 | Smart Brain (Automation) | DeepSeek V4 Flash |
 
 ---
 
