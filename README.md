@@ -73,7 +73,7 @@ AI Influencer Academy is a free, community‑driven curriculum that teaches crea
 
 | Community | Description | Link |
 |-----------|-------------|------|
-| **AI Creator Academy** | Learn to create, grow & monetize AI influencers — from the team behind Aitana López, Spain's first AI influencer. | [skool.com/create-your-ai-influencer-1635](https://www.skool.com/create-your-ai-influencer-1635) |
+| **AI Creator Academy** | Learn to create, grow & monetize AI influencers. | [ai-creator.academy](https://ai-creator.academy) |
 | **Six Figure AI Society** | Exclusive learning community for building and automating AI influencer brands. | [skool.com/ai-influencer-society-8267](https://www.skool.com/ai-influencer-society-8267) |
 | **Digital Influencer Lab** | Step‑by‑step tutorials using Flux, ComfyUI, and plug‑and‑play templates via MimicPC. | [skool.com/digital-influencer-lab](https://www.skool.com/digital-influencer-lab) |
 | **Silent Snow AI Influencers** | SFW course covering AI influencer workflows, tools, and strategies. | [skool.com/silent-snow-ai-influencers-6472](https://www.skool.com/silent-snow-ai-influencers-6472) |
